@@ -12,4 +12,4 @@ This repository only contains the architecture summary, methodology, and overall
 
 **⚠️[Project summary (Pdf)](docs/project-summary.pdf): Detailed description of implemented sensor models and their integration into the BASELABS framework for is provided in this PDF.**
 
-**Keywords:** Sensor Fusion, Automotive Radar, Camera Sensor, Forward Collision Warning (FCW), Object Tracking, Unscented Kalman Filter (UKF), State Estimation, Sensor Modeling, Time-to-Collision (TTC), BASELABS, C#.
+**Keywords:** C#, Automotive Radar, BASELABS, Camera Sensor, Forward Collision Warning (FCW), Object Tracking, Sensor Fusion, Sensor Modeling, State Estimation, Time-to-Collision (TTC), Unscented Kalman Filter (UKF).
